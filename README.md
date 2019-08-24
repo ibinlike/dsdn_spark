@@ -10,7 +10,7 @@
 
 ## Installation <a name="installation"></a>
 
-The code is developed in Python 3* enviroment and pyspark 2.4.3, no need addtional speicial library. 
+The code is developed in Python 3* enviroment and pyspark 2.4.3, no need addtional special library. 
 
 
 ## Project Motivation<a name="motivation"></a>
